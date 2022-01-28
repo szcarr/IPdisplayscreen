@@ -6,5 +6,10 @@ To run:
 chmod 700 /src/ipsetup.sh
 sh ipsetup.sh
 
+After installation, reboot your raspberry pi that is connected with a hd44780 screen.
+
 !NOTE
-Might need to run ipsetup twice.
+If screen does not display ip.
+Try running ipdisplay.sh again.
+
+If it still does not work read howtouse.txt
