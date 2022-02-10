@@ -4,9 +4,7 @@ Credits to: jarleven https://github.com/jarleven/flaskapp/blob/main/luma/setup.s
 
 To run do:
 
-chmod 700 /src/ipsetup.sh
-
-sh ipsetup.sh
+chmod 700 /src/ipsetup.sh && ./ipsetup.sh
 
 After installation, reboot your raspberry pi that is connected with a hd44780 screen.
 
