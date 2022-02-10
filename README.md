@@ -1,6 +1,6 @@
 Using a hd44780 screen to display global and local IP off of a raspberry pi.
 
-Credits to: Jarl even https://github.com/jarleven/flaskapp/blob/main/luma/setup.sh
+Credits to: jarleven https://github.com/jarleven/flaskapp/blob/main/luma/setup.sh
 
 To run do:
 
