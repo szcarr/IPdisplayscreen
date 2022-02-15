@@ -12,4 +12,4 @@ After installation, reboot your raspberry pi that is connected with a hd44780 sc
 If screen does not display ip.
 Try running ipdisplay.sh again.
 
-If it still does not work read howtouse.txt
+If it still does not work. Read howtouse.txt
