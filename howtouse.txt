@@ -1,5 +1,5 @@
-Må legge IPdisplayscreen mappa i heime katalogen: Eksempel i /home/pi/
-Trenge berre å skrive sh setup.sh i kommandolinja. (Sjølvsagt med filstien til start.sh fila)
+Må legge IPdisplayscreen mappa i heime katalogen: Eksempel: /home/pi/
+Trenge berre å skrive ./setup.sh i kommandolinja. (Sjølvsagt med filstien til start.sh fila)
 
 Om programmet gjev error melding.
 Må du sjølv gjere:
@@ -16,7 +16,7 @@ fi"
 
 "exit 0"
 
-"Eksempel på filsti: sh /home/pi/IPdisplayscreen/start.sh"
+Eksempel på filsti: "sh /home/pi/IPdisplayscreen/start.sh"
 
 OM DU SKULLE FÅ ERROR I Å KØYRE SHELL SCRIPTET:
 FUNGERTE FOR MEG:
